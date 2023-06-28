@@ -1,6 +1,6 @@
 
 ## <h1 align="center">Hi 👋, I'm maths29</h1>
-<h3 align="center">A passionate software developer from Nigeria</h3>
+<h3 align="center">A Passionate Software Engineer from Nigeria<br><span aligh="center" style="color:red">FULL STACK</h3>
 <img align="center" alt="coding" widht="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t25mw9ZSdvlG-mVue69-5V8cEsvZowVzhw&usqp=CAU">
 
 
