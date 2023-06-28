@@ -1,3 +1,21 @@
+## <h1 align="center">Hi 👋, I'm maths29</h1>
+<h3 align="center">A passionate software developer from Nigeria</h3>
+<img align="center" alt="coding" widht="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t25mw9ZSdvlG-mVue69-5V8cEsvZowVzhw&usqp=CAU">
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maths29" alt="maths29" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/maths29" target="blank"><img src="https://img.shields.io/twitter/follow/maths29?logo=twitter&style=for-the-badge" alt="maths29" /></a> </p>
+
+- 📫 How to reach me **iwuconcept@mgmail.com**
+
+- ⚡ Fun fact **i think a fun to work with**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/maths29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maths29" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/iwu-john-b92b01148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/iwu-john-b92b01148" height="30" width="40" /></a>
+<a href="https://fb.com/jenic maths" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jenic maths" height="30" width="40" /></a>
+</p>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maths jenic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/iwu-john-b92b01148) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@maths29) 
 <img align="right" alt="coding" widht="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t25mw9ZSdvlG-mVue69-5V8cEsvZowVzhw&usqp=CAU">
