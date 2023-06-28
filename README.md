@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **iwuconcept@mgmail.com**
 
-- ⚡ Fun fact **i think a fun to work with**
+- ⚡ Fun fact **i think i'm fun to work with**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maths jenic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/iwu-john-b92b01148) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@maths29) 
