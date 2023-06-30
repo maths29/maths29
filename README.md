@@ -10,22 +10,7 @@
 
 - ⚡ Fun fact ** I'm fun to work with and I Love reading and trying new experiences**<br>
 -<h1>💫 About Me:</h1>
-🔭 I’m Currently pursuing further studies at Microverse Online Software Engineering School.<br>
-🌱 Constantly learning and exploring new technologies to stay ahead in the ever-evolving web development landscape.<br>
-👯 I’m looking to collaborate on Open Source Projects.<br>
-🤝 I’m looking for help with AI Engineers and web3.<br>
-💬 Ask me about JavaScript, HTML, React, and CSS.<br>
-👨‍💻 Passionate about creating exceptional web experiences.<br>
-🚀 Committed to delivering clean, efficient, and user-centric code.<br>
-💡 Strong problem-solving skills and a keen eye for detail.<br>
-🤝 Collaborative team player with excellent communication skills.<br>
-🌟 Dedicated to creating seamless user interfaces and memorable user experiences.<br>
-📚 Continuously expanding knowledge through self-driven projects and open-source contributions.<br>
-🌍 Enthusiastic about building websites that positively impact people's lives.<br>
-🏆 Committed to personal and professional growth to become a well-rounded software developer.<br>
-Let's connect and build the future of the web together! 🌐✨
-
-
+Hi! I'm a software developer and a full-stack web developer who loves creating exceptional web experiences. I'm currently studying at Microverse, an online software engineering school that teaches me how to write clean, efficient, and user-centric code. I specialize in front-end development with HTML, CSS, and JavaScript 🚀, but I'm also constantly learning and exploring new technologies 💡 to stay ahead in the ever-evolving web development landscape. I have strong problem-solving skills 🧠 and a keen eye for detail 👀, and I enjoy collaborating with other developers 👥 and contributing to open-source projects 🌟. I'm passionate about building websites that make a positive impact on people's lives 💫, and I'm committed to personal and professional growth 📚 to become a well-rounded software developer. Let's connect and build the future of the web together! 🌐✨
 
 - 📫 How to reach me **iwuconcept@mgmail.com**
 
