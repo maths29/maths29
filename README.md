@@ -6,9 +6,16 @@
 
 <p align="left"> <a href="https://twitter.com/maths29" target="blank"><img src="https://img.shields.io/twitter/follow/maths29?logo=twitter&style=for-the-badge" alt="maths29" /></a> </p>
 
-- 📫 How to reach me **iwuconcept@mgmail.com**
 
-- ⚡ Fun fact **i think i'm fun to work with**
+
+- ⚡ Fun fact **i think i'm fun to work with**<br>
+-<h1>💫 About Me:</h1>
+🔭 I’m currently working on AI and a professional Electronic website.<br>
+👯 I’m looking to collaborate on Open Source Projects.<br>
+🤝 I’m looking for help with AI Engineers and web3.<br>
+💬 Ask me about JavaScript, HTML, React, CSS
+
+- 📫 How to reach me **iwuconcept@mgmail.com**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/iwu-john-b92b01148) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@maths29) 
