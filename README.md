@@ -10,10 +10,22 @@
 
 - ⚡ Fun fact ** I'm fun to work with and I Love reading and trying new experiences**<br>
 -<h1>💫 About Me:</h1>
-🔭 I’m currently working on AI and a professional Electronic website.<br>
+🔭 I’m Currently pursuing further studies at Microverse Online Software Engineering School.<br>
+🌱 Constantly learning and exploring new technologies to stay ahead in the ever-evolving web development landscape.<br>
 👯 I’m looking to collaborate on Open Source Projects.<br>
 🤝 I’m looking for help with AI Engineers and web3.<br>
-💬 Ask me about JavaScript, HTML, React, CSS
+💬 Ask me about JavaScript, HTML, React, and CSS.<br>
+👨‍💻 Passionate about creating exceptional web experiences.<br>
+🚀 Committed to delivering clean, efficient, and user-centric code.<br>
+💡 Strong problem-solving skills and a keen eye for detail.<br>
+🤝 Collaborative team player with excellent communication skills.<br>
+🌟 Dedicated to creating seamless user interfaces and memorable user experiences.<br>
+📚 Continuously expanding knowledge through self-driven projects and open-source contributions.<br>
+🌍 Enthusiastic about building websites that positively impact people's lives.<br>
+🏆 Committed to personal and professional growth to become a well-rounded software developer.<br>
+Let's connect and build the future of the web together! 🌐✨
+
+
 
 - 📫 How to reach me **iwuconcept@mgmail.com**
 
@@ -22,6 +34,11 @@
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+
+<h1>Portfolio Highlights</h1>
+<p>Check out some of my notable projects:</p>
+Project 1: [Project Name](project name)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=maths29&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maths29&theme=dark&hide_border=false)<br/>
