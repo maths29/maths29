@@ -8,7 +8,7 @@
 
 
 
-- ⚡ Fun fact **i think i'm fun to work with**<br>
+- ⚡ Fun fact ** I'm fun to work with and I Love reading and trying new experiences**<br>
 -<h1>💫 About Me:</h1>
 🔭 I’m currently working on AI and a professional Electronic website.<br>
 👯 I’m looking to collaborate on Open Source Projects.<br>
