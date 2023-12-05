@@ -12,7 +12,7 @@
 -<h1>💫 About Me:</h1>
 Hi! I'm a software developer and a full-stack web developer who loves creating exceptional web experiences. I'm currently studying at Microverse, an online software engineering school that teaches me how to write clean, efficient, and user-centric code. I specialize in front-end development with HTML, CSS, and JavaScript 🚀, but I'm also constantly learning and exploring new technologies 💡 to stay ahead in the ever-evolving web development landscape. I have strong problem-solving skills 🧠 and a keen eye for detail 👀, and I enjoy collaborating with other developers 👥 and contributing to open-source projects 🌟. I'm passionate about building websites that make a positive impact on people's lives 💫, and I'm committed to personal and professional growth 📚 to become a well-rounded software developer. Let's connect and build the future of the web together! 🌐✨
 
-- 📫 How to reach me **iwuconcept@mgmail.com**
+- 📫 How to reach me **iwuconcept@gmail.com**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/iwu-john-b92b01148) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@maths29) 
